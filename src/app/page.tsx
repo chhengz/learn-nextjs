@@ -29,10 +29,6 @@ export default function Home() {
             {link.label}
           </Button>
         ))}
-
-
-        
-
       </div>
 
       <div className="flex space-x-2 space-y-2 flex-wrap">
